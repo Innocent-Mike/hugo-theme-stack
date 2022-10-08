@@ -1,6 +1,6 @@
 ---
-title: Chinese Test
-description: 这是一个副标题
+title: 美句鉴赏
+description: 分享优美的诗句
 date: 2020-09-09
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg

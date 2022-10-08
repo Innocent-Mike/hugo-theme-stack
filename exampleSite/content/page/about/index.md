@@ -7,7 +7,7 @@ aliases:
   - 关于我的博客
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2022-10-08'
 menu:
     main: 
         weight: -90
