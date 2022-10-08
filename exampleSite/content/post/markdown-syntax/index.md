@@ -2,7 +2,7 @@
 author = "Liu"
 title = "第一个博客"
 date = "2022-10-8"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "示例文章展示了HTML元素的基本标记语法和格式。"
 tags = [
     "markdown",
     "css",
@@ -10,8 +10,8 @@ tags = [
     "themes",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "主题",
+    "语法",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
