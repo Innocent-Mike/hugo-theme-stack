@@ -1,6 +1,6 @@
 +++
 author = "Liu"
-title = "第一个标题"
+title = "第一个博客"
 date = "2022-10-8"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
@@ -18,4 +18,5 @@ aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
+[//]: # (这是在主页的第一个博客)
 你好，我的个人博客
