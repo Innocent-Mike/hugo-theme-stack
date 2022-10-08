@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "阿拉伯语的博客"
 date = "2019-03-09"
-description = "هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة"
+description = "此文本是可以在同一空间中替换的文本示例"
 categories = [
     "تجربة",
     "تجربة مع فراغات"

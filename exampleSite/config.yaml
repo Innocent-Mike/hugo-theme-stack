@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 这是我借模板建立的博客，欢迎访问
         avatar:
             enabled: true
             local: true
